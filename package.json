@@ -1,6 +1,6 @@
 {
 	"name": "@stream-io/transliterate",
-	"version": "1.5.0",
+	"version": "1.5.2",
 	"description": "Convert Unicode characters to Latin characters using transliteration",
 	"license": "MIT",
 	"repository": "https://github.com/GetStream/transliterate",
