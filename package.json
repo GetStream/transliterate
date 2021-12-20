@@ -44,7 +44,7 @@
 		"replace"
 	],
 	"dependencies": {
-		"escape-string-regexp": "^5.0.0",
+		"@stream-io/escape-string-regexp": "^5.0.2",
 		"lodash.deburr": "^4.1.0"
 	},
 	"devDependencies": {
